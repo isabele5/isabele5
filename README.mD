@@ -1,5 +1,6 @@
 # Olá, eu sou Isabele Lima 👋
 
+📈 Formada em Gestão Empresarial 
 🎓 Estudante de ADS
 
 💻 Tecnologias
@@ -10,10 +11,8 @@
 - Git/GitHub
 
 🚀 Projetos
-- Pesquisa Jogo
-- Sistema de Biblioteca
-- Projetos UX/UI
+
 
 📫 Contato
-- LinkedIn
-- E-mail
+- LinkedIn:  www.linkedin.com/in/isabele-xavier-de-lima-b76b1318a
+- E-mail: isabelelima101@gmail.com
