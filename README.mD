@@ -13,9 +13,9 @@
 
 ## 🚀 Projetos
 
-* Pesquisa Jogo
-* Projetos de Python
-* Projetos de UX/UI
+* 
+* 
+* 
 
 
 
@@ -24,5 +24,5 @@
 * LinkedIn: [www.linkedin.com/in/isabele-xavier-de-lima-b76b1318a](http://www.linkedin.com/in/isabele-xavier-de-lima-b76b1318a)
 * E-mail: [isabelelima101@gmail.com](mailto:isabelelima101@gmail.com)
 
-✨ Sempre em busca de aprender novas tecnologias e desenvolver soluções que unam gestão, tecnologia e experiência do usuário.
+✨ Desenvolvimento Front-End com ênfase em Experiência do Usuário (UX)
 
