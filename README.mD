@@ -11,14 +11,6 @@
 * CSS
 * Git e GitHub
 
-## 🚀 Projetos
-
-* 
-* 
-* 
-
-
-
 ## 📫 Contato
 
 * LinkedIn: [www.linkedin.com/in/isabele-xavier-de-lima-b76b1318a](http://www.linkedin.com/in/isabele-xavier-de-lima-b76b1318a)
